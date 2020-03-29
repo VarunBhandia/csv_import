@@ -1,2 +1,4 @@
 # Ingore dir
 node_modules/
+
+*.log
